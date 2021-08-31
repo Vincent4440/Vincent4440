@@ -1,13 +1,18 @@
-<h1 align="center">Hi , Myself Vincent 444</h1>
+<h1 align="center">Hi , Myself Vincent</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- I have made my own app, pls try [Aditya Tools](https://vincent4440.github.io/Aditya_Tools/)
+- 🌱 I’m currently learning **Python**
+
+- I have made my own app, pls try- [Aditya Tools](https://vincent4440.github.io/Aditya_Tools/)
+
+- My website- [website](https://vincent4440.github.io/Vincent444/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vincent444_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vincent444_" height="30" width="40" /></a>
 <a href="https://instagram.com/m7n778" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m7n778" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/vincent !" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vincent !" height="30" width="40" /></a>
+<a href="https://discord.gg/WNSyk4pcMf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WNSyk4pcMf" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
