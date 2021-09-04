@@ -18,7 +18,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Drstrange GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vincent4440)](https://github.com/anuraghazra/github-readme-stats)
+[![Vincent GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vincent4440)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
