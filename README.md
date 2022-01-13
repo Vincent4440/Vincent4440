@@ -1,9 +1,8 @@
 ### Hi there , Myself Vincent (Aditya Singh)
 
-- 🔭 I’m currently working on learning full discord.js
-- 🌱 I develop cool bots for discord
-- 👯 I'm currently developing a multipurpose bot
-- 🤔 I help people make bots really easy without coding :)
+- 🔭 I’m currently working on learning full node.js
+- 👯 I'm currently developing a minecraft client
+- 🤔 I help people :)
 - ⚡ Fun fact: I am a pro gamer xD
 
 
